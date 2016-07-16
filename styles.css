@@ -1,3 +1,4 @@
+/*Boxes*/
 .funny{
     background: black;
     width: 80px;
@@ -10,6 +11,7 @@
     font-size: 64px;
 }
 
+/*Button*/
 .touche{
     background: darksalmon;
     height: 38px;
